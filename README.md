@@ -172,5 +172,22 @@ L'application sera disponible sur `http://localhost:3000`
 - Application mobile pour les patients (rapports, rendez-vous, commentaires)
 
 ---
+<img width="303" height="265" alt="AUTO PATIENT" src="https://github.com/user-attachments/assets/4147b126-9057-420c-87f4-220ccfd25574" />
+<img width="957" height="448" alt="Capture d’écran 2025-04-10 210119" src="https://github.com/user-attachments/assets/b047a86d-120e-45fe-bf00-ff08b45db8f3" />
+<img width="947" height="431" alt="Capture d’écran 2025-05-24 033207" src="https://github.com/user-attachments/assets/21c0607d-37db-43d9-868d-9f421735421d" />
+<img width="957" height="449" alt="Capture d’écran 2025-05-24 032420" src="https://github.com/user-attachments/assets/ffcbfc84-683e-40cc-b9e3-43cf4038a2b2" />
+<img width="557" height="427" alt="Capture d’écran 2025-05-24 023530" src="https://github.com/user-attachments/assets/2ebf5db1-0df2-4d4b-b80b-e6bcf51390f1" />
+<img width="951" height="431" alt="Capture d’écran 2025-05-24 023111" src="https://github.com/user-attachments/assets/e15828b1-6fe3-4bdd-b056-c6a620755403" />
+<img width="959" height="439" alt="Capture d’écran 2025-05-24 010625" src="https://github.com/user-attachments/assets/b303aa76-3d42-42ba-910a-39c80733e368" />
+<img width="233" height="289" alt="Capture d’écran 2025-05-23 182716" src="https://github.com/user-attachments/assets/fbe962b5-7509-40f7-8855-6f070ce2e136" />
+<img width="238" height="440" alt="Capture d’écran 2025-05-23 182649" src="https://github.com/user-attachments/assets/82e1781b-bc42-4fc4-9252-c55cd2e34087" />
+<img width="344" height="235" alt="Capture d’écran 2025-05-23 165119" src="https://github.com/user-attachments/assets/3a0ef45d-a59c-4498-bd32-eff495157af5" />
+<img width="252" height="281" alt="Capture d’écran 2025-05-23 163947" src="https://github.com/user-attachments/assets/05f0afa0-c28b-490b-882c-5fe69f3b97e1" />
+<img width="943" height="389" alt="Capture d’écran 2025-05-22 215205" src="https://github.com/user-attachments/assets/c4cfec7d-fc50-4187-923f-c513ca6fd23b" />
+<img width="808" height="440" alt="Capture d’écran 2025-05-22 195640" src="https://github.com/user-attachments/assets/f491949e-ad9e-402d-953f-03c131df3fb6" />
+<img width="272" height="259" alt="Capture d’écran 2025-05-22 212812" src="https://github.com/user-attachments/assets/4ed7848f-00b7-4a51-be99-65e64d4626f5" />
+<img width="516" height="355" alt="Capture d’écran 2025-05-22 205044" src="https://github.com/user-attachments/assets/dab75baa-ed60-4743-955b-8fffba5f7b50" />
+<img width="428" height="368" alt="Capture d’écran 2025-05-22 203341" src="https://github.com/user-attachments/assets/fe5a3af8-b026-4563-a2b3-8a7965e6cbc0" />
+<img width="808" height="440" alt="Capture d’écran 2025-05-22 195640" src="https://github.com/user-attachments/assets/68c5af1f-0e1c-4d29-9c40-a67abc06822a" />
 
 *Copyright 2025 — Bourezg Douaa — Universite Oran 1*
